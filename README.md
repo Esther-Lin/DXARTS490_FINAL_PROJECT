@@ -1,10 +1,6 @@
-# DXARTS490_FINAL_PROJECT
-My final project is to make an e-textile dress that outlines the metro map of the Shenzhen City (the city that I grew up in). Many metro stops are connected to different memories that I have with the city. I would use three to four switches to control the LEDs, which indicate the most frequent commutes that I took in the past — each switch is associated with one memory that I had. 
-I would use the cutting machine to cut out the metro map and iron it on the dress (will further explore more options). I will also design little icons or patterns that symbolize my connection with the city. Once I turn one of the three to four switches, the controlled LEDs will light up one of my past commutes and also my designed icons. 
+# SZMemory-Shirt
+SZMemory-Shirt is an e-textile shirt that outlines the metro map of the Shenzhen City where is the city that I grew up in. I picked Metro map is because metro stops are connected to different memories that I have with the city. The metro lines that I picked are the most frequent commutes that I took in the past - each pressure sensor is associated with one memory that I had.
 
+I included two conductive pressure sensors on the sleeves of the shirts so that when I do different body movements, such as hugging, the LED and fabric optic tube will light up with white or blue colors. 
 
-
-
-
-
-
+On the back of the shirt, I used conductive tread to shape the outline of the Shenzhen City, a house icon, and a heart shape, which I used to connect the pressure sensor to the Arudino Lilypad. 
