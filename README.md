@@ -3,4 +3,4 @@ SZMemory-Shirt is an e-textile shirt that outlines the metro map of the Shenzhen
 
 I included two conductive pressure sensors on the sleeves of the shirts so that when I do different body movements, such as hugging myself, the LED and fabric optic tube will light up with white or blue colors. The LED lights will first light up when I triggered the pressure sensors and then fade away. The fading effect is also symbolized our memory will be fading as well.
 
-On the back of the shirt, I used conductive tread to shape the outline of the Shenzhen City, a house icon, and a heart shape, which I used to connect the pressure sensor to the Arudino Lilypad. 
+On the back of the shirt, I used conductive thread to shape the outline of the Shenzhen City, a house icon, and a heart shape, which I used to connect the pressure sensor to the Arduino Lilypad. 
